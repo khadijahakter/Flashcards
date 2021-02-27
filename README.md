@@ -9,7 +9,7 @@ What color is a rose?
 
 ### App Walk-though
 
-<img src="https://recordit.co/i7yGNfe0GO" width=200><br>
+<img src="https://recordit.co/i7yGNfe0GO.gif" width=200><br>
 
 ## Required
 - [x] Create New Project in Xcode
