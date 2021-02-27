@@ -15,6 +15,7 @@
 		53830C5525EA1BDF00891D77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 53830C5325EA1BDF00891D77 /* LaunchScreen.storyboard */; };
 		53830C6025EA1BE000891D77 /* flashcardsApp_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53830C5F25EA1BE000891D77 /* flashcardsApp_1Tests.swift */; };
 		53830C6B25EA1BE000891D77 /* flashcardsApp_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53830C6A25EA1BE000891D77 /* flashcardsApp_1UITests.swift */; };
+		53830C7C25EA21AB00891D77 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 53830C7B25EA21AB00891D77 /* Readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		53830C6625EA1BE000891D77 /* flashcardsApp-1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "flashcardsApp-1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		53830C6A25EA1BE000891D77 /* flashcardsApp_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flashcardsApp_1UITests.swift; sourceTree = "<group>"; };
 		53830C6C25EA1BE000891D77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53830C7B25EA21AB00891D77 /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = Readme.md; path = ../../../../Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				53830C4825EA1BDB00891D77 /* AppDelegate.swift */,
 				53830C4A25EA1BDB00891D77 /* SceneDelegate.swift */,
 				53830C4C25EA1BDB00891D77 /* ViewController.swift */,
+				53830C7B25EA21AB00891D77 /* Readme.md */,
 				53830C4E25EA1BDB00891D77 /* Main.storyboard */,
 				53830C5125EA1BDF00891D77 /* Assets.xcassets */,
 				53830C5325EA1BDF00891D77 /* LaunchScreen.storyboard */,
@@ -233,6 +236,7 @@
 			files = (
 				53830C5525EA1BDF00891D77 /* LaunchScreen.storyboard in Resources */,
 				53830C5225EA1BDF00891D77 /* Assets.xcassets in Resources */,
+				53830C7C25EA21AB00891D77 /* Readme.md in Resources */,
 				53830C5025EA1BDB00891D77 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
